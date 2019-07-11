@@ -1,3 +1,3 @@
 
 ## Preview
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/dcolinmorgan/DCM_CV/master/Resume.pdf)
